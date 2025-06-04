@@ -1,0 +1,12 @@
+body {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+#lista-tareas li {
+  transition: background-color 0.3s ease;
+}
+
+#lista-tareas li:hover {
+  background-color: #f8f9fa;
+}
+
